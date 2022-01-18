@@ -1,0 +1,13 @@
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\bin\Debug\netcoreapp3.1\desafioCadastrarSeries.exe
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\bin\Debug\netcoreapp3.1\desafioCadastrarSeries.deps.json
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\bin\Debug\netcoreapp3.1\desafioCadastrarSeries.runtimeconfig.json
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\bin\Debug\netcoreapp3.1\desafioCadastrarSeries.runtimeconfig.dev.json
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\bin\Debug\netcoreapp3.1\desafioCadastrarSeries.dll
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\bin\Debug\netcoreapp3.1\desafioCadastrarSeries.pdb
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\obj\Debug\netcoreapp3.1\desafioCadastrarSeries.csprojAssemblyReference.cache
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\obj\Debug\netcoreapp3.1\desafioCadastrarSeries.AssemblyInfoInputs.cache
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\obj\Debug\netcoreapp3.1\desafioCadastrarSeries.AssemblyInfo.cs
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\obj\Debug\netcoreapp3.1\desafioCadastrarSeries.csproj.CoreCompileInputs.cache
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\obj\Debug\netcoreapp3.1\desafioCadastrarSeries.dll
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\obj\Debug\netcoreapp3.1\desafioCadastrarSeries.pdb
+C:\estudosDev\digitalInnovationOne\desafioCadastrarSeries\obj\Debug\netcoreapp3.1\desafioCadastrarSeries.genruntimeconfig.cache
